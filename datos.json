@@ -1,0 +1,49 @@
+{
+  "ultimaActualizacion": "2026-01-15T10:30:00",
+  "cuentas": [
+    {
+      "id": 1,
+      "nombre": "Cuenta Free Fire Élite",
+      "juego": "Free Fire",
+      "precio": 45,
+      "stock": 3,
+      "caracteristicas": ["30 skins legendarias", "Nivel 80", "3 personajes élite"],
+      "whatsapp": "5351234567",
+      "vendedor": "Marlon",
+      "fecha": "2026-01-15",
+      "imagenes": []
+    },
+    {
+      "id": 2,
+      "nombre": "Cuenta Fortnite OG",
+      "juego": "Fortnite",
+      "precio": 120,
+      "stock": 1,
+      "caracteristicas": ["Skin Renegade Raider", "Temporadas 1-12", "3000 pavos"],
+      "whatsapp": "5351234567",
+      "vendedor": "John Jesús",
+      "fecha": "2026-01-14",
+      "imagenes": []
+    }
+  ],
+  "recargas": [
+    {
+      "id": 1,
+      "juego": "Free Fire",
+      "paquete": "100 Diamantes",
+      "precio": 2,
+      "entrega": "Instantáneo",
+      "whatsapp": "5351234567",
+      "vendedor": "Marlon"
+    },
+    {
+      "id": 2,
+      "juego": "Free Fire",
+      "paquete": "500 Diamantes",
+      "precio": 9,
+      "entrega": "Instantáneo",
+      "whatsapp": "5351234567",
+      "vendedor": "Marlon"
+    }
+  ]
+}
