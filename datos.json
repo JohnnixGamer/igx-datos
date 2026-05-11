@@ -24,26 +24,19 @@
       "vendedor": "John Jesús",
       "fecha": "2026-01-14",
       "imagenes": []
-    }
-  ],
-  "recargas": [
-    {
-      "id": 1,
-      "juego": "Free Fire",
-      "paquete": "100 Diamantes",
-      "precio": 2,
-      "entrega": "Instantáneo",
-      "whatsapp": "5351234567",
-      "vendedor": "Marlon"
     },
     {
-      "id": 2,
-      "juego": "Free Fire",
-      "paquete": "500 Diamantes",
-      "precio": 9,
-      "entrega": "Instantáneo",
+      "id": 3,
+      "nombre": "Cuenta CODM Legendaria",
+      "juego": "Call of Duty Mobile",
+      "precio": 35,
+      "stock": 5,
+      "caracteristicas": ["Legendary M13", "Diamante en 5 armas", "Nivel 150"],
       "whatsapp": "5351234567",
-      "vendedor": "Marlon"
+      "vendedor": "Marlon",
+      "fecha": "2026-01-13",
+      "imagenes": []
     }
-  ]
+  ],
+  "recargas": []
 }
